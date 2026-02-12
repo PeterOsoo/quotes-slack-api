@@ -1,5 +1,5 @@
 const SLACK_WEBHOOK_URL = "xxxx";
-const QUOTE_API_URL = "https://api.quotable.io/random";
+const QUOTE_API_URL = "https://zenquotes.io/api/random";
 
 function sendDailyQuote() {
   try {
